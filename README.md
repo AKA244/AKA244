@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AKA244
-- I’m interested in Web Design/Development
-- I’m currently learning Node.JS
+- I’m interested in Web Development/Security
+- I’m currently learning Express.js
 - I'm from Turkey
 
 <!---
